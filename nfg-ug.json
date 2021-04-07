@@ -23,8 +23,8 @@
          "properties":[
                 {
                  "name":"audioVolume",
-                 "type":"int",
-                 "value":20
+                 "type":"float",
+                 "value":0.2
                 }, 
                 {
                  "name":"playAudio",
