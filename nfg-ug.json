@@ -22,14 +22,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/Kituc4LS64Q?autoplay=1"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
+                 "value":".\/ElevatorMusic.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -47,7 +42,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/bdciUaWweR0"
+                 "value":"https:\/\/www.youtube.com\/embed\/bdciUaWweR0?autoplay=1"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
