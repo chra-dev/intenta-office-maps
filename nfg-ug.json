@@ -22,6 +22,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":20
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":".\/ElevatorMusic.mp3"
