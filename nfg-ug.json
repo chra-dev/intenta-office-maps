@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#entry_ug"
                 }],
          "type":"tilelayer",
          "visible":true,
