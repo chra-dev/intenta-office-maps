@@ -66,6 +66,12 @@
          "id":15,
          "name":"popup_zone",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"popupEgZone"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
