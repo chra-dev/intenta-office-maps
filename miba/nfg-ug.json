@@ -199,7 +199,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/sound\/Printer.mp3"
+                         "value":"./sound/Printer.mp3"
                         }, 
                         {
                          "name":"volume",
@@ -222,7 +222,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/sound\/ElevatorMusic.mp3"
+                         "value":"./sound/ElevatorMusic.mp3"
                         }, 
                         {
                          "name":"volume",
@@ -245,7 +245,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/sound\/Door_unlock.mp3"
+                         "value":"./sound/Door_unlock.mp3"
                         }, 
                         {
                          "name":"volume",
@@ -268,7 +268,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/sound\/CoffeeMaker.mp3"
+                         "value":"./sound/CoffeeMaker.mp3"
                         }, 
                         {
                          "name":"volume",
@@ -301,7 +301,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/bdciUaWweR0?autoplay=1"
+                         "value":"https://www.youtube.com/embed/bdciUaWweR0?autoplay=1"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -334,7 +334,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/irZx2SD7HEE?autoplay=1"
+                         "value":"https://www.youtube.com/embed/irZx2SD7HEE?autoplay=1"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -367,7 +367,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/confluence.intenta.de\/x\/Qq3VBg"
+                         "value":"https://confluence.intenta.de/x/Qq3VBg"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -410,7 +410,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/joscha.com\/nichtlustig\/"
+                         "value":"https://joscha.com/nichtlustig/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -438,12 +438,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/godbolt.org\/e#z:OYLghAFBqd5QCxAYwPYBMCmBRdBLAF1QCcAaPECAM1QDsCBlZAQwBtMQBGAFlJvoCqAZ0wAFAB4gA5AAYppAFZdSrZrVDIApACYAQjt2kR7ZATx1KmWugDCqVgFcAtrS4BWUlfQAZPLUwAcs4ARpjEXLwADqhChOa0do4u7qTRsWZ0vv5BTqHhPEaYJhm0DATMxASJzq6cHsaYpvFlFQRZgSFhEUblldXJdT2t7Tl5EQCURqgOxMgcUjoAzH7IjlgA1JqLNshCBPj0W9iaMgCCSytrmJvb5nvEmMxORyfnZwD07%2BsAKgCekddftNiOs0BsEGFMKR1iR1qxUMx0Os1OtMOInpF2AA6V4OPwERbaAD6BHWQgAjg4KpgIGhaHt1nj6AAOEnrWjOcabADs%2BjO6wF6weBBmtHZznWACpxc9FnzztyACKvV749ZOZh%2BCDjFW816C0F0BlMgnE0kPIQOVgETS8ilUh4QZkCHVKrbyg17dAgFDTUlbGwBzbabQWq02xbKkM3QPbIWYS3WmNBr0%2Brysd0q\/mC4Wi9acbSLTNnW3Ks5SSasaRueSuWTyVDSQN6Axk4FzYOLTjyAjSOTjSYAaxAXax3OZ2hkbgAnAA2Nwz6cT2cqaTcWt9hvSeRCEAyUi9%2BuTOCwGCIX1OSJ4dhkCi01CX69dYCcV98a8EMK7iDBTekYJ%2BBUvzSN2pBoE4ThWAQADytCsMB9akFgGrqOwf74A8TQAG4Jn%2BaKNA4n5\/viRR\/qweDBMQQF2Fgf4EMQeBOCBFZ8HQjAsGhBT8AQwhiJIiFKJwKhqBoBgGCoFG7pAkyoJEJS7lIAC0XpbIqWgtnoPDrIpADqYTELCulsKw2l6eI9HMNpikAugahmMgO5FI0JSWNY\/S1J41gjJ0%2BSpDEcR0O5yhpAFtDebkXRCQ0TR0C0fT2DUyjRSUcVtH4HQRb5eytEFUW9Gl2Q%2BVwkxCO2HCcJW1YbohjZSOIzKzops7cOswDIMg%2BacFinDrBAuCELCSxCesdiPjenYVSNYl6D2m4DqQw6LNyWJuJws6EtOnBzrOMiLG4iyrlI66kEx3DMlik57dO2jMjwS0FgupB1nIpC1Tue4HnNpAnuefqRIR5CUOBV43somD4EQvncUwbDlbw3G8RIf4AO5UZEzGVVINZPX%2BtVDesyOEAg6z1Y1zWte1nXdbNR6TBCiJdNqh3HUxq1jnO3AyNynDMm4s43dyvDPVuUjvfuh79kOI7cFizLMtwO3cjInAyLOs7y0JVZSIs1UvW9n1Ht9Z4\/RASDA0%2Bt5Aw%2BINdFhyCRJERJYVtRKqJ%2BexEuIzXvtaX6UL%2BiEAbQQHMWBD6QfQsHwehmAocAaGIRhzl4DhCkvfhyCEfMoEkVrL3kZR1EYPML30YxGOsfQMOcfDbGI\/xL1KNownqCg02GAXUlM7J8nSO8qbqfomkte8OkjzpAAajnFPErm2AlAyeT46WjJFfnpPEuXr6F4VjFFTkxaU%2BVb8lzT5bva\/ZfFSQeVfBUZXvJVlcVh3Y8Lr3SF7LVOEIdvrM704sRuwTKSPqENBqFmGqNG2IIljaC5M2IeugaaSwWiORYWJFhYOwTgnBzN5CnXOlORYzJrraDqHzOWK537613OLL6JskB\/QBnec2oNm7gwGlDNi1c4aVx4iIJGiFUbMHRlIbsmM3642kHAgmRMSbkx\/n\/ABQDmDuwICgisdNHhYHCEzLWLMQBs2nArFW3JxzcG4F2AoNDtxGA%2BhLLRaCsGYNwW4rBh0dY4xqnYxx80tbaF1iLTR80cLEFiBYbgQA"
+                         "value":"https://godbolt.org/e#z:OYLghAFBqd5QCxAYwPYBMCmBRdBLAF1QCcAaPECAM1QDsCBlZAQwBtMQBGAFlJvoCqAZ0wAFAB4gA5AAYppAFZdSrZrVDIApACYAQjt2kR7ZATx1KmWugDCqVgFcAtrS4BWUlfQAZPLUwAcs4ARpjEXLwADqhChOa0do4u7qTRsWZ0vv5BTqHhPEaYJhm0DATMxASJzq6cHsaYpvFlFQRZgSFhEUblldXJdT2t7Tl5EQCURqgOxMgcUjoAzH7IjlgA1JqLNshCBPj0W9iaMgCCSytrmJvb5nvEmMxORyfnZwD07%2BsAKgCekddftNiOs0BsEGFMKR1iR1qxUMx0Os1OtMOInpF2AA6V4OPwERbaAD6BHWQgAjg4KpgIGhaHt1nj6AAOEnrWjOcabADs%2BjO6wF6weBBmtHZznWACpxc9FnzztyACKvV749ZOZh%2BCDjFW816C0F0BlMgnE0kPIQOVgETS8ilUh4QZkCHVKrbyg17dAgFDTUlbGwBzbabQWq02xbKkM3QPbIWYS3WmNBr0%2Brysd0q/mC4Wi9acbSLTNnW3Ks5SSasaRueSuWTyVDSQN6Axk4FzYOLTjyAjSOTjSYAaxAXax3OZ2hkbgAnAA2Nwz6cT2cqaTcWt9hvSeRCEAyUi9%2BuTOCwGCIX1OSJ4dhkCi01CX69dYCcV98a8EMK7iDBTekYJ%2BBUvzSN2pBoE4ThWAQADytCsMB9akFgGrqOwf74A8TQAG4Jn%2BaKNA4n5/viRR/qweDBMQQF2Fgf4EMQeBOCBFZ8HQjAsGhBT8AQwhiJIiFKJwKhqBoBgGCoFG7pAkyoJEJS7lIAC0XpbIqWgtnoPDrIpADqYTELCulsKw2l6eI9HMNpikAugahmMgO5FI0JSWNY/S1J41gjJ0%2BSpDEcR0O5yhpAFtDebkXRCQ0TR0C0fT2DUyjRSUcVtH4HQRb5eytEFUW9Gl2Q%2BVwkxCO2HCcJW1YbohjZSOIzKzops7cOswDIMg%2BacFinDrBAuCELCSxCesdiPjenYVSNYl6D2m4DqQw6LNyWJuJws6EtOnBzrOMiLG4iyrlI66kEx3DMlik57dO2jMjwS0FgupB1nIpC1Tue4HnNpAnuefqRIR5CUOBV43somD4EQvncUwbDlbw3G8RIf4AO5UZEzGVVINZPX%2BtVDesyOEAg6z1Y1zWte1nXdbNR6TBCiJdNqh3HUxq1jnO3AyNynDMm4s43dyvDPVuUjvfuh79kOI7cFizLMtwO3cjInAyLOs7y0JVZSIs1UvW9n1Ht9Z4/RASDA0%2Bt5Aw%2BINdFhyCRJERJYVtRKqJ%2BexEuIzXvtaX6UL%2BiEAbQQHMWBD6QfQsHwehmAocAaGIRhzl4DhCkvfhyCEfMoEkVrL3kZR1EYPML30YxGOsfQMOcfDbGI/xL1KNownqCg02GAXUlM7J8nSO8qbqfomkte8OkjzpAAajnFPErm2AlAyeT46WjJFfnpPEuXr6F4VjFFTkxaU%2BVb8lzT5bva/ZfFSQeVfBUZXvJVlcVh3Y8Lr3SF7LVOEIdvrM704sRuwTKSPqENBqFmGqNG2IIljaC5M2IeugaaSwWiORYWJFhYOwTgnBzN5CnXOlORYzJrraDqHzOWK537613OLL6JskB/QBnec2oNm7gwGlDNi1c4aVx4iIJGiFUbMHRlIbsmM3642kHAgmRMSbkx/n/ABQDmDuwICgisdNHhYHCEzLWLMQBs2nArFW3JxzcG4F2AoNDtxGA%2BhLLRaCsGYNwW4rBh0dY4xqnYxx80tbaF1iLTR80cLEFiBYbgQA"
                         }, 
                         {
                          "name":"shortLink",
                          "type":"string",
-                         "value":"https:\/\/godbolt.org\/z\/v9bYzcfY9"
+                         "value":"https://godbolt.org/z/v9bYzcfY9"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -471,7 +471,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.cvag.de\/eza\/liste.html?station=CAG-333"
+                         "value":"https://www.cvag.de/eza/liste.html?station=CAG-333"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -489,7 +489,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/morgenwirdes.de\/regenradar.php?id=499"
+                         "value":"https://morgenwirdes.de/regenradar.php?id=499"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -517,7 +517,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/morgenwirdes.de\/erweitert.php?id=499"
+                         "value":"https://morgenwirdes.de/erweitert.php?id=499"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -573,7 +573,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.gocomics.com\/garfield\/"
+                         "value":"https://www.gocomics.com/garfield/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -591,7 +591,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/intenta.mitarbeiterangebote.de"
+                         "value":"https://intenta.mitarbeiterangebote.de"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -609,7 +609,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.google.com\/search?q=todo_whiteboard"
+                         "value":"https://www.google.com/search?q=todo_whiteboard"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -627,7 +627,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.google.com\/search?q=todo_game"
+                         "value":"https://www.google.com/search?q=todo_game"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -645,7 +645,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/intenta.udemy.com"
+                         "value":"https://intenta.udemy.com"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -663,7 +663,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/radio.antentafm.ddnss.de\/"
+                         "value":"https://radio.antentafm.ddnss.de/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",

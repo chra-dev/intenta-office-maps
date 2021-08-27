@@ -127,7 +127,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/sound\/ElevatorMusic.mp3"
+                         "value":"./sound/ElevatorMusic.mp3"
                         }, 
                         {
                          "name":"volume",
@@ -150,7 +150,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/sound\/CoffeeMaker.mp3"
+                         "value":"./sound/CoffeeMaker.mp3"
                         }, 
                         {
                          "name":"volume",
@@ -183,7 +183,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.google.com\/search?q=todo_confl_planungsunterst"
+                         "value":"https://www.google.com/search?q=todo_confl_planungsunterst"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -211,7 +211,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.google.com\/search?q=todo_confl_menu"
+                         "value":"https://www.google.com/search?q=todo_confl_menu"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -229,7 +229,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.retrogames.cz\/play_1030-NES.php"
+                         "value":"https://www.retrogames.cz/play_1030-NES.php"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -247,7 +247,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.google.com\/search?q=todo_radio"
+                         "value":"https://www.google.com/search?q=todo_radio"
                         }],
                  "type":"tilelayer",
                  "visible":true,
